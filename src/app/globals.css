@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+htmlhtml { scroll-behavior: smooth; }
+
+/* Helpers */
+.container { max-width: 1100px; }
